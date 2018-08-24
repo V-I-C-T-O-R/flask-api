@@ -1,0 +1,25 @@
+[2018-08-24 11:40:12 +0800] [1484] [INFO] Starting gunicorn 19.9.0
+[2018-08-24 11:40:12 +0800] [1484] [INFO] Listening at: http://0.0.0.0:5001 (1484)
+[2018-08-24 11:40:12 +0800] [1484] [INFO] Using worker: gevent
+[2018-08-24 11:40:12 +0800] [1541] [INFO] Booting worker with pid: 1541
+[2018-08-24 11:40:12 +0800] [1551] [INFO] Booting worker with pid: 1551
+[2018-08-24 11:40:12 +0800] [1556] [INFO] Booting worker with pid: 1556
+[2018-08-24 11:40:12 +0800] [1559] [INFO] Booting worker with pid: 1559
+[2018-08-24 11:40:12 +0800] [1564] [INFO] Booting worker with pid: 1564
+[2018-08-24 11:40:12 +0800] [1578] [INFO] Booting worker with pid: 1578
+[2018-08-24 11:40:12 +0800] [1583] [INFO] Booting worker with pid: 1583
+[2018-08-24 11:40:12 +0800] [1584] [INFO] Booting worker with pid: 1584
+[2018-08-24 11:40:12 +0800] [1585] [INFO] Booting worker with pid: 1585
+[2018-08-24 11:40:20 +0800] [1585] [INFO] 主上: 你见过鬼么
+[2018-08-24 11:40:20 +0800] [1585] [INFO] 机器人: 是吗？
+[2018-08-24 11:42:24 +0800] [1484] [INFO] Handling signal: int
+[2018-08-24 11:42:24 +0800] [1585] [INFO] Worker exiting (pid: 1585)
+[2018-08-24 11:42:24 +0800] [1551] [INFO] Worker exiting (pid: 1551)
+[2018-08-24 11:42:24 +0800] [1584] [INFO] Worker exiting (pid: 1584)
+[2018-08-24 11:42:24 +0800] [1578] [INFO] Worker exiting (pid: 1578)
+[2018-08-24 11:42:24 +0800] [1541] [INFO] Worker exiting (pid: 1541)
+[2018-08-24 11:42:24 +0800] [1583] [INFO] Worker exiting (pid: 1583)
+[2018-08-24 11:42:24 +0800] [1559] [INFO] Worker exiting (pid: 1559)
+[2018-08-24 11:42:24 +0800] [1556] [INFO] Worker exiting (pid: 1556)
+[2018-08-24 11:42:24 +0800] [1564] [INFO] Worker exiting (pid: 1564)
+[2018-08-24 11:42:25 +0800] [1484] [INFO] Shutting down: Master

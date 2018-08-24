@@ -1,0 +1,5 @@
+2018-08-24 11:44:50,114-INFO-run.py-36: app load jwt module
+2018-08-24 11:44:50,114-INFO-run.py-38: app load route api module
+2018-08-24 11:44:50,178-INFO-run.py-40: app running at 0.0.0.0:5001 ,env=prod ,debug=False
+2018-08-24 11:45:03,590-INFO-common_handle.py-32: 主上: 你见过鬼么
+2018-08-24 11:45:03,948-INFO-common_handle.py-41: 机器人: 没有你见过鬼没有
