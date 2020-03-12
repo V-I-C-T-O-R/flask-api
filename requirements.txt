@@ -20,7 +20,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 monotonic==1.5
-psutil==5.4.7
+psutil==5.6.6
 PyJWT==1.4.2
 pypng==0.0.18
 PyQRCode==1.2.1
